@@ -1,0 +1,25 @@
+{
+  "name": "angularUIRoutingExample",
+  "version": "1.0.0",
+  "description": "Assuming that you already have a working knowledge of javascript, Angular 1, and routing -- this document will walk you through setting up ui router with a basic angular app. (bonus points if you have used routing in angular, i.e. ngRoute, to see the difference)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thacherT1D/angularUIRoutingExample.git"
+  },
+  "keywords": [],
+  "author": "SOPHIE THACHER <thachert1d@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thacherT1D/angularUIRoutingExample/issues"
+  },
+  "homepage": "https://github.com/thacherT1D/angularUIRoutingExample#readme",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-ui-router": "^0.3.1",
+    "materialize-css": "^0.97.7"
+  }
+}
