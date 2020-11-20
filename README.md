@@ -1,4 +1,4 @@
-##Setting Up an Angular 1 project ui.router
+## Setting Up an Angular 1 project ui.router
 
 Assuming that you already have a working knowledge of javascript, Angular 1, and routing -- this document will walk you through setting up ui router with a basic angular app.
 (bonus points if you have used routing in angular, i.e. ngRoute, to see the difference)
